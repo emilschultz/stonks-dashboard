@@ -1,4 +1,4 @@
-import "../components/header.css";
+import "../components/Header.css";
 
 export default function Header({ left = null, right = null }) {
   return (
