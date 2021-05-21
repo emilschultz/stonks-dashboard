@@ -1,0 +1,13 @@
+.header {
+  display: block;
+  width: 100%;
+}
+
+.header__container {
+  padding: var(--space-lg);
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 800px;
+}
