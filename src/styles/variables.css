@@ -1,0 +1,16 @@
+:root {
+  --font-family-primary: sans-serif;
+
+  --color-background: white;
+  --color-primary: #333;
+
+  --font-size-sm: 16px;
+  --font-size-md: 20px;
+  --font-size-lg: 32px;
+  --font-size-xl: 48px;
+
+  --space-sm: 4px;
+  --space-md: 8px;
+  --space-lg: 16px;
+  --space-xl: 32px;
+}
