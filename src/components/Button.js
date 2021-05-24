@@ -26,7 +26,12 @@ export default function Button({
       >
         {children}
       </button>
-      <button onClick={() => app.auth().signOut()}>Sign out</button>
+      <button
+        className="sign__out__button"
+        onClick={() => app.auth().signOut()}
+      >
+        Sign out
+      </button>
     </>
   );
 }
