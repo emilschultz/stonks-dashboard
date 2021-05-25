@@ -2,6 +2,7 @@ html {
   box-sizing: border-box;
   font-family: var(--font-family-primary);
   background-color: var(--color-background);
+  color: var(--color-primary);
 }
 
 *,
